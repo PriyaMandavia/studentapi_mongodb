@@ -1,0 +1,11 @@
+2024-03-28 17:13:05,800 - router.studentroutes - 35 - ERROR - Exception is : AttributeError
+2024-03-28 18:02:32,214 - router.studentroutes - 26 - ERROR - Exception is: HTTPException
+2024-03-28 18:08:21,550 - router.studentroutes - 28 - ERROR - Exception is: HTTPException
+2024-03-28 18:11:14,048 - router.studentroutes - 28 - ERROR - Exception is: HTTPException
+2024-03-28 18:14:49,709 - router.studentroutes - 32 - ERROR - Exception is: HTTPException
+2024-03-28 18:15:19,223 - router.studentroutes - 32 - ERROR - Exception is: HTTPException
+2024-03-28 18:18:42,171 - router.studentroutes - 31 - ERROR - Exception is: TypeError
+2024-03-28 18:24:01,034 - router.studentroutes - 32 - ERROR - Exception is: HTTPException
+2024-03-28 18:48:04,293 - router.studentroutes - 32 - ERROR - Exception is : HTTPException
+2024-03-28 18:48:54,964 - router.studentroutes - 32 - ERROR - internal error
+2024-03-28 19:04:19,766 - router.user_routes - 32 - ERROR - Exception is : HTTPException
